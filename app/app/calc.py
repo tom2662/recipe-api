@@ -2,8 +2,12 @@
 calculator
 """
 
+
 def add(x, y):
+    """add"""
     return x + y
 
+
 def substract(x, y):
-    return x-y
+    """substract"""
+    return 0
